@@ -1,0 +1,12 @@
+gems:
+  - buildr >= 1.4.7
+
+repositories:
+  remote:
+   - http://repo1.maven.org/maven2
+
+artifacts:
+  testng: org.testng:testng:jar:jdk15:5.10
+  mockito: org.mockito:mockito-all:jar:1.8.5
+  
+
