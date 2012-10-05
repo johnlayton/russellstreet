@@ -1,0 +1,12 @@
+/target
+/reports
+/bin
+
+/*.iws
+/*.ipr
+/*.iml
+/*.ids
+
+/_buildr.rb
+/Gemfile.lock
+/.bundle
